@@ -1,1 +1,2 @@
-# Janji-Jywa
+# Janji Jywa
+Janji Jywa adalah toko yang menjual berbagai jenis minuman. Untuk mengatur semua transaksi dan mengatur sistem minuman, saya (ketua) dan tiga rekan saya mengembangkan aplikasi sebagai berikut. Aplikasi ini terdiri atas dua aktor yaitu customer dan admin. Aplikasi ini menyediakan fitur berupa login, registrasi, edit profile, membeli minuman, melihat histori transaksi, dan mengatur data minuman (stock, nama, harga dan lainnya).
